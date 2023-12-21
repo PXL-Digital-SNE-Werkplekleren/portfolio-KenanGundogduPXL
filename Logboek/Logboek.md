@@ -2,6 +2,12 @@
 
 ## Logboek WPL 1
 
+Werkplekleren is een belangrijk vak voor de richting Systeem en Netwerken.
+
+![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-KenanGundogduPXL/assets/148559434/59a7d11f-b6e2-4b4a-9b21-40d894d94c55)
+
+Het doel van werkplekleren 1 was vooral kennismaken met het vak en een inleiding voor wat we op de werkvloer moeten doen of kunnen. Zo hebben we korte opdrachten moeten maken om nieuwe dingen bij te leren over het werkvloer en over jezelf. Tussendoor hebben we kennisgemaakt met enkele gastminarissen.
+
 ## Logboek WPL 2
 
 ## Logboek WPL 3
