@@ -62,7 +62,7 @@ weet ik nu ook waarom ik power apps zou moeten gebruiken buiten school.
 De belangrijkste opdrachten volgens mij waren: Reflecteren, Planning en het maken van een Power APP.
 
 
-*Deze opdrachten leren je erg veel bij in een korte tijd.*
+@@ Deze opdrachten leren je erg veel bij in een korte tijd. @@
 
 
 
