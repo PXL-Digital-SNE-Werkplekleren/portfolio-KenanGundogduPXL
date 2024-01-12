@@ -24,6 +24,14 @@ Ik vond dat deze gastseminarie de beste was omdat deze man ons veel nuttige info
 Gastseminarie 
 
 
+
+
+
+
+
+
+
+
 ## Reflectie WPL 2
 
 ## Reflectie WPL 3
