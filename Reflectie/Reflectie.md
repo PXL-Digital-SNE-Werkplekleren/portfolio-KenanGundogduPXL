@@ -76,8 +76,18 @@ acitiviteiten die me afleiden van mijn school carrière.
 
 Ik weet er al alles over omdat ik op plaatsen heb gewerkt waar het veel voorkomt. Bij deze job voel ik me al direct thuis en weet ik zeker van dat ik het wil gaan uitoefenen.
 
+- Waarover zou je nog wel een gastseminarie willen tijdens WPL2?
 
+Het mag alles zijn zolang het me maar veel bijleert in die uur of uurtjes. Ik sta zelf open voor veel dingen bij te leren zelfs onderwerpen die me niet echt boeien.
 
+- Welk inzicht heeft WPL1 jou gebracht?
+
+Het heeft me niet echt een inzicht gegeven maar wel veel meer informatieve dingen voor op de werkvloer. Dit vak is dan ook meer cruciaal dan andere vakken. 
+
+- Wat hoop je in WPL2 te leren en ontdekken? Wat zijn je voornemens?
+
+Ik hoop veel bij te leren en zelfstandig te kunnen werken op een project wat langer dan een paar werken duurt. Zo zie je dan ook waaraan je werkt en de evolutie ervan.
+Als je doet leer je er ook sneller van.
 
 ## Reflectie WPL 2
 
