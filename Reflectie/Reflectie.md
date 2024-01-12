@@ -12,7 +12,7 @@ ook duidelijk aan dat als de wil er is dat dan het ook lukt.
 
 Gastsemonarie Nathan Reviers - Service Manager @ Carglass
 
-Eerst vertelde Nathan ons meer over wat de klanten verwachten en de topics die meestal voorkomen wanneer er interactie is met de klant.
+- Eerst vertelde Nathan ons meer over wat de klanten verwachten en de topics die meestal voorkomen wanneer er interactie is met de klant.
 Bovendien liet hij zien hoe belangrijk het was om een band te vormen met de klanten en zo transparant mogelijk te zijn met ze.
 Ter informatie liet hij ook meer aspecten zien over het bedrijf zelf en de statistieken ervan. Om duidelijk te maken vergeleek hij de bedrijf ook van het µ
 verleden en nu. Daarnaast heeft hij ons ook meer verteld over lean thinking en uitgelegd waarom het beter is dan agile.
