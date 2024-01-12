@@ -16,7 +16,9 @@ Mijn beeld van dit beroep is dat alles in de toekomst alleen maar IT zal nodig h
 
 Hieronder vindt u de leerdoelstellingen voor iemand die de opleiding Systeem en Netwerken volgt.
 
-<img src="4.PNG" alt="4">
+![Image][def]
+
+[def]: ../images/4.png
 
 
 Dit semester had ik de volgende vakken: Linux, WPL1 en security van het tweede jaar.
