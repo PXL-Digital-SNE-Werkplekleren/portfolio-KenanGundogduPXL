@@ -8,5 +8,8 @@ Als je dat niet hebt en belangrijke mensen je vragen of je wat van je werk wilt 
 
 # persoonlijke info
 
-<img src="1.PNG" alt="CV">
+![Image][def]
+
+[def]: ../images/1.png
+
 
