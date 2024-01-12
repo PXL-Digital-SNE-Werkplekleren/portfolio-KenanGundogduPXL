@@ -8,4 +8,5 @@ Als je dat niet hebt en belangrijke mensen je vragen of je wat van je werk wilt 
 
 # persoonlijke info
 
-![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-KenanGundogduPXL/assets/148559434/f63c25e4-e64b-4985-bb99-f2cb5fca9047)
+<img src="1.PNG" alt="CV">
+
