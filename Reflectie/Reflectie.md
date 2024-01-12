@@ -41,23 +41,40 @@ ik van mezelf weet dat ik niet handig genoeg ben en haat te werken in "vuile" om
 
 2. Wat geeft jou energie en goesting? En hoe zie je dit in je opleiding die je bent aangevat?
 
-
+Ik hoef geen energie en goesting om te studeren omdat ik al genoeg ben gemotiveert voor de toekomst. Ik wil mezelf zien op de werkveld van IT en zie me daar ook in uitbreiden.
+Deze opleiding bevalt me wel maar er zijn wel sommige vakken die ik liever niet zou willen hebben, alles heeft zijn nadelen.
 
 3. Hoe zie je jezelf in dialoog gaan met anderen in de opleiding die je bent aangevat? Wat versta jij onder een ken-doementaliteit en hoe zie je dat in de opleiding die je bent aangevat?
 
+Ik werk graag met mijn medestudenten en leer zo ook graag iets bij sinds dat ik in de 2de jaar al zit. Ook helpt dit om mijn geheugen weer te refreshen van dat onderwerp. 
+Ik treuzel ook niet om hulp te gaan vragen van mensen die meer meer weten dan mij op een bepaald vlak.
 
 4. Hoe ver sta jij op dit moment al in een ken-doementaliteit? Wat weet je op dit moment al over de inhouden van je opleiding?
 
+Ik ga altijd op zoek om makkelijkere manieren te leren van hoe iets te doen wat we in de les leren of zien. Zoals bijvoorbeeld bij de toets van talstelsels.
+Hierbij had ik een andere manier van oplossen. Zo ga ik altijd op zoek om meer bij te leren.
 
 5. Met welke andere disciplines zou jij in aanraking kunnen komen in je opleiding? Hoe ziet je X-factor er op dit moment al uit? Welke ervaringen heb je al?
 
+Ik weet het nog niet echt zeker want veel dingen interesseren me wel. Hierbij heb ik al veel ervaring met deze richting omdat ik me buiten school er ook mee bezig hield.
+In de lessen komt het soms wel voor maar voor de rest is er nog veel wat er nog niet aan bod is gekomen van wat ik zelf heb geleerd.
 
+6. Hoe zou je je X-factor kunnen vertalen naar de opleiding waarvoor je gekozen hebt? Hoe zou jij je X-factor verder kunnen ontwikkelen?
 
+Mijn sterke punten liggen snel bij netwerken/windows. Deze 2 vakken interesseren me behalve de theorie van networks dan. Ik probeer ook altijd meer te leren 
+over windows omdat vele bedrijven windows OS'en gebruken voor hun medewerkers. Hierbij heb ik ook al een passie gehad voor graphical design waar ik op mijn eentje
+heb geleerd hoe je adobe After Effects en Photoshop gebruikt. Deze 2 dingen zullen me verder helpen in de toekomst. (zelfstudie voor 3 jaar)
 
+### Resultaten
 
+Ik ben niet echt trots op mijn resultaten omdat het veel beter kon. Ik zal me meer moeten inzetten tijdens de 2de semester en stoppen met sommige 
+acitiviteiten die me afleiden van mijn school carrière.
 
+### SLOT
 
+- Wat weet je al over de soort van job die je later wil uitoefenen?
 
+Ik weet er al alles over omdat ik op plaatsen heb gewerkt waar het veel voorkomt. Bij deze job voel ik me al direct thuis en weet ik zeker van dat ik het wil gaan uitoefenen.
 
 
 
