@@ -12,9 +12,7 @@ Het doel van werkplekleren 1 was vooral kennismaken met het vak en een inleiding
 
 Dit was de planning voor het vak werkplekleren 1 in 2022-2023.
 
-![Image][def]
-
-[def]: ../images/3.png
+<img src="3.png" alt=".planning.">
 
 ## Logboek WPL 2
 
