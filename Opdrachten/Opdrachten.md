@@ -89,7 +89,7 @@ Hier is het document waar u alle relevante informatie en opdrachten voor WPL 2 k
 
 ### Eindpresentatie
 
-<a href="WPL2PresentatieTeam21.pdf">Open het document</a>
+<a href="Opdrachten/WPL2PresentatieTeam21.pdf">Open het document</a>
 
 ## Opdrachten WPL 3
 
