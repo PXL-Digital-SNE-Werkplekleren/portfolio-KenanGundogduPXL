@@ -91,6 +91,12 @@ Hier is het document waar u alle relevante informatie en opdrachten voor WPL 2 k
 
 <a href="Opdrachten/WPL2PresentatieTeam21.pdf">Open het presentatie</a>
 
+### Opdracht waar ik trots op ben
+
+PS: Ik ben trots op deze opdracht omdat ik veel bugs of fouten moest oplossen.
+
+[Bekijk hier het filmpje](https://youtu.be/rv5rC94tzQU)
+
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
