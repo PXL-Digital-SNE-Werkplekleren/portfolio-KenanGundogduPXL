@@ -85,7 +85,7 @@ Ten slotte heb ik een back-uptool geïnstalleerd die een back-up kan maken van e
 
 Hier is het document waar u alle relevante informatie en opdrachten voor WPL 2 kunt vinden. Dit document is zorgvuldig samengesteld en bevat een overzichtelijke beschrijving van de cursus, inclusief taken en deadlines.
 
-<a href="Team21opleverdocument.pdf">Open het document</a>
+<a href="Opdrachten/Team21opleverdocument.pdf">Open het document</a>
 
 ### Eindpresentatie
 
