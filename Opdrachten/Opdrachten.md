@@ -68,6 +68,8 @@ De belangrijkste opdrachten volgens mij waren: Reflecteren, Planning en het make
 
 ## Opdrachten WPL 2
 
+### Mijn inzet binnen team 21
+
 Ik ben werkplekleren 2 begonnen met het installeren van een Linux machine. Hierbij heb ik ook deze machine geconfigureerd zodat hij klaar was voor het gebruik. 
 Nadat de Windows-domeinmachine was geïnstalleerd, heb ik ook op deze machine de aspecten geïnstalleerd die we in de toekomst nodig zouden hebben.
 Het correct installeren van deze machines is cruciaal voor het besparen van tijd in de toekomst.
