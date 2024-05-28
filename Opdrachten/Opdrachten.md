@@ -81,6 +81,11 @@ Bij sprint 4 heb ik DHCP geïnstalleerd en geprobeerd een website online te zett
 
 Ten slotte heb ik een back-uptool geïnstalleerd die een back-up kan maken van elke machine binnen onze vSphere-omgeving of netwerk. Daarnaast heb ik een printserver geïnstalleerd op onze Windows-machine, zodat de gebruikers van ons domein kunnen printen.
 
+### Eindbestand of opleverdocument
+
+Hier is het document waar u alle relevante informatie en opdrachten voor WPL 2 kunt vinden. Dit document is zorgvuldig samengesteld en bevat een overzichtelijke beschrijving van de cursus, inclusief taken en deadlines.
+
+<a href="Opdrachten/WPL2RapportTeam21.pdf">Open het document</a>
 
 
 ## Opdrachten WPL 3
