@@ -91,6 +91,19 @@ Als je doet leer je er ook sneller van.
 
 ## Reflectie WPL 2
 
+###Teamwork
+
+Ik heb veel geleerd toen ik deel uitmaakte van een team van vier mensen. We hebben ontdekt dat het belangrijk is om goed met elkaar te praten. Hierdoor konden we onze ideeën delen, problemen oplossen en samen beslissingen nemen. We hadden allemaal verschillende ideeën, wat ons hielp om slimme oplossingen te bedenken voor moeilijke problemen. Ook heb ik geleerd hoe ik het team kan leiden en motiveren. Deze ervaring heeft niet alleen mijn technische kennis vergroot, maar heeft me ook geholpen om beter te worden in samenwerken en leidinggeven. Dit zal me helpen in mijn verdere studie en carrière.
+
+###Taken
+
+Ik heb veel geleerd van de taken die we tijdens deze periode hebben gedaan. Elke taak bracht nieuwe uitdagingen en kansen om te groeien. Door actief mee te doen, heb ik mijn vaardigheden verbeterd en meer geleerd. Het volbrengen van deze taken heeft me geholpen om beter te worden in wat ik doe en heeft me ook meer zelfvertrouwen gegeven. Ik kijk terug op deze tijd en ben dankbaar voor alles wat ik heb geleerd. Ik kijk ernaar uit om deze kennis en ervaring in de toekomst te gebruiken.
+
+###Eindresultaat
+
+Dankzij mijn deelname aan WPL2 zijn mijn sociale vaardigheden beter geworden. Ik kan nu beter samenwerken in een team en effectiever communiceren. Ook heb ik geleerd hoe ik mijn tijd beter kan indelen en problemen kan oplossen. Ik vind WPL2 een goed idee op onze school omdat het niet alleen helpt bij het leren van technische dingen, maar ook bij het ontwikkelen van belangrijke vaardigheden die nodig zijn voor school en werk.
+
+
 ## Reflectie WPL 3
 
 ## Reflectie WPL 4
