@@ -68,6 +68,19 @@ De belangrijkste opdrachten volgens mij waren: Reflecteren, Planning en het make
 
 ## Opdrachten WPL 2
 
+Ik ben werkplekleren 2 begonnen met het installeren van een Linux machine. Hierbij heb ik ook deze machine geconfigureerd zodat hij klaar was voor het gebruik. 
+Nadat de Windows-domeinmachine was geïnstalleerd, heb ik ook op deze machine de aspecten geïnstalleerd die we in de toekomst nodig zouden hebben.
+Het correct installeren van deze machines is cruciaal voor het besparen van tijd in de toekomst.
+
+Vervolgens heb ik iets geïnstalleerd op de Windows-domein zodat we later configuraties konden doorvoeren voor de gebruikers die zouden werken op de computers die met dit domein verbonden waren.
+Direct na de installatie heb ik ook de computers van onze gebruikers aan ons domein gekoppeld, zodat alle configuraties automatisch naar deze computers worden doorgevoerd.
+Als laatste heb ik geprobeerd Pi-hole te installeren om alle gok-, pornografische, en andere ongewenste websites te blokkeren. Dit is helaas niet gelukt omdat ik niet doorhad dat ik op de verkeerde Linux-machine werkte.
+Bij sprint 4 heb ik DHCP geïnstalleerd en geprobeerd een website online te zetten via Nginx op de Linux-machine.
+
+Ten slotte heb ik een back-uptool geïnstalleerd die een back-up kan maken van elke machine binnen onze vSphere-omgeving of netwerk. Daarnaast heb ik een printserver geïnstalleerd op onze Windows-machine, zodat de gebruikers van ons domein kunnen printen.
+
+
+
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
