@@ -156,4 +156,37 @@ In het begin vond ik het soms moeilijk om complexe IT-omgevingen snel te begrijp
 
 Daarnaast merkte ik dat ik soms te diep op zoek ging naar complexe oorzaken van een probleem, terwijl de oplossing vaak eenvoudiger bleek te zijn. Dit werd ook tijdens feedbackmomenten aangehaald en is een belangrijk leerpunt voor de toekomst.
 
+# Uitdagende taken en situaties
+
+Het oplossen van netwerkproblemen vond ik uitdagend maar tegelijkertijd zeer leerrijk.
+
+Voorbeelden hiervan waren:
+
+- Problemen met toestellen die zich in het verkeerde VLAN bevonden.
+- Foutief geconfigureerde netwerkpoorten.
+- Verbindingsproblemen waarbij netwerkplannen moesten worden geraadpleegd.
+- Troubleshooting met behulp van Ruckus en netwerkdocumentatie.
+
+Daarnaast vereisten patchmanagement, Active Directory en automatiseringsopdrachten een grondige analyse en veel zelfstandig opzoekwerk.
+
+## Verbeterpunten voor WPL4
+
+Tijdens WPL4 wil ik verder groeien in:
+
+- Netwerkbeheer
+- Troubleshooting
+- Professionele communicatie
+- Prioriteitenbeheer
+
+Ik wil sneller leren bepalen waar een probleem zich bevindt en eerst de meest logische oorzaken onderzoeken voordat ik complexere scenario's analyseer.
+
+Dit wil ik bereiken door:
+
+- Gestructureerder te werken.
+- Meer technische documentatie te raadplegen.
+- Mijn analyseproces beter op te bouwen.
+- Actiever feedback te vragen.
+
+Van mijn toekomstige werkplekcoach zou ik graag extra feedback krijgen over mijn probleemoplossende aanpak en prioriteitenbeheer. Daarnaast zou ik graag meer betrokken worden bij infrastructuur- en netwerkprojecten om mijn technische kennis verder uit te breiden.
+
 ## Reflectie WPL 4
