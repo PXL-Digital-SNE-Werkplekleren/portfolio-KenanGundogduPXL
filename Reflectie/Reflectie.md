@@ -149,4 +149,11 @@ Een belangrijk werkpunt is het beter prioriteren van taken en het consequenter o
 
 Daarnaast wil ik proactiever communiceren wanneer ik ergens vastloop of extra informatie nodig heb. Om dit te verbeteren wil ik tijdens toekomstige stages en projecten bewuster werken met taakplanning, prioriteitenlijsten en regelmatige afstemming met collega's.
 
+# Uitdagingen
+## Wat ging moeilijk tijdens Werkplekleren?
+
+In het begin vond ik het soms moeilijk om complexe IT-omgevingen snel te begrijpen. Omdat er veel systemen, procedures en tools gebruikt werden, duurde het even voordat ik een volledig overzicht had van de omgeving.
+
+Daarnaast merkte ik dat ik soms te diep op zoek ging naar complexe oorzaken van een probleem, terwijl de oplossing vaak eenvoudiger bleek te zijn. Dit werd ook tijdens feedbackmomenten aangehaald en is een belangrijk leerpunt voor de toekomst.
+
 ## Reflectie WPL 4
