@@ -126,7 +126,7 @@ PS: Ik ben trots op deze opdracht omdat ik veel bugs of fouten moest oplossen.
 <center>
   <object data="./Onstagelogboek.pdf" type="application/pdf" width="700px" height="700px">
    <embed src="./Onstagelogboek.pdf">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./WPL3-FG_GundogduKenan.pdf">WPL3-FG_GundogduKenan</a>.</p>
+      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./WPL3-SNE_Intervisie_Leerdoelen_Werkkwaliteiten_GundogduKenan_24.pdf">WPL3-FG_GundogduKenan</a>.</p>
     </embed>
   </object>
 </center>
