@@ -143,4 +143,10 @@ Tijdens verschillende opdrachten kreeg ik de kans om mee te kijken met ervaren c
 
 Door deze begeleiding merkte ik dat mijn technische kennis, communicatie en zelfstandigheid gedurende de stage sterk verbeterden.
 
+## Werkpunten rond samenwerking
+
+Een belangrijk werkpunt is het beter prioriteren van taken en het consequenter opvolgen van gedeelde verantwoordelijkheden, zoals een gezamenlijke mailbox.
+
+Daarnaast wil ik proactiever communiceren wanneer ik ergens vastloop of extra informatie nodig heb. Om dit te verbeteren wil ik tijdens toekomstige stages en projecten bewuster werken met taakplanning, prioriteitenlijsten en regelmatige afstemming met collega's.
+
 ## Reflectie WPL 4
