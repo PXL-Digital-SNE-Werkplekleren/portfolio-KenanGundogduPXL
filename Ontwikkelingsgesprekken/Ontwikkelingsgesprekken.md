@@ -56,6 +56,8 @@ Op kennisvlak heb ik bijgeleerd hoe ik taken gerichter en efficiënter kan aanpa
 
 Naast mijn technische kennis ben ik ook gegroeid in mijn soft skills. Ik communiceer vlotter, luister beter naar feedback en probeer daar ook echt iets mee te doen. Daarnaast ben ik kritischer geworden voor mijn eigen werk en denk ik meer na over hoe ik iets beter kan aanpakken.
 
+# Functioneringsgesprek
+
 <center>
   <object data="./Onstagelogboek.pdf" type="application/pdf" width="700px" height="700px">
    <embed src="./Onstagelogboek.pdf">
@@ -64,10 +66,12 @@ Naast mijn technische kennis ben ik ook gegroeid in mijn soft skills. Ik communi
   </object>
 </center>
 
+# Evaluatiegesprek
+
 <center>
   <object data="./Onstagelogboek.pdf" type="application/pdf" width="700px" height="700px">
    <embed src="./Onstagelogboek.pdf">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./WPL3-EG_GundogduKenan.pdf">>WPL3-EG_GundogduKenan</a>.</p>
+      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./WPL3-EG_GundogduKenan.pdf">WPL3-EG_GundogduKenan</a>.</p>
     </embed>
   </object>
 </center>
