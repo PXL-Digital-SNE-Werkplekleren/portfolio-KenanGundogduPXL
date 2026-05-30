@@ -61,7 +61,7 @@ Sommige OLR’s gaan natuurlijk beter dan andere, maar mijn plan is om tegen het
 
 De feedbackmomenten hebben mij daarbij enorm geholpen, omdat ik daardoor dingen ben gaan inzien die ik eerst niet van mezelf merkte. Daardoor heb ik geleerd om misschien ook een beetje kritischer naar mezelf te kijken.
 
-   [Open logboek](./Onstagelogboek.pdf">WPL3-Logboek_GundogduKenan.pdf)
+   [Open logboek](./WPL3-Logboek_GundogduKenan.pdf)
     
 
 ## Logboek WPL4
