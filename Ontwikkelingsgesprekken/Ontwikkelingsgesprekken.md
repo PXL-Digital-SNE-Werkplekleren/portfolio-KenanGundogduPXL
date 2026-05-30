@@ -58,22 +58,12 @@ Naast mijn technische kennis ben ik ook gegroeid in mijn soft skills. Ik communi
 
 ### Functioneringsgesprek
 
-<center>
-  <object data="./Onstagelogboek.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="./Onstagelogboek.pdf">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./WPL3-FG_GundogduKenan.pdf">WPL3-FG_GundogduKenan</a>.</p>
-    </embed>
-  </object>
-</center>
-
+   [WPL3-FG_GundogduKenan](./WPL3-FG_GundogduKenan.pdf)
+    
 ### Evaluatiegesprek
 
-<center>
-  <object data="./Onstagelogboek.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="./Onstagelogboek.pdf">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./WPL3-EG_GundogduKenan.pdf">WPL3-EG_GundogduKenan</a>.</p>
-    </embed>
-  </object>
-</center>
+
+   [WPL3-EG_GundogduKenan](./WPL3-EG_GundogduKenan.pdf)
+  
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
