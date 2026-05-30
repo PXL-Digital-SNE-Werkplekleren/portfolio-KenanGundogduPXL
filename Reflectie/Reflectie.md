@@ -134,7 +134,7 @@ Ook de bedrijfscultuur vond ik zeer positief. Er was ruimte voor initiatief, fee
 
 De samenwerking tussen collega's verliep vlot en professioneel, waardoor ik een goed beeld kreeg van hoe een IT-afdeling binnen een grotere organisatie functioneert.
 
-## Samenwerking
+# Samenwerking
 ### Samenwerking met werkplekcoach en collega's
 
 De samenwerking met mijn werkplekcoach en collega's verliep zeer goed. Ik kon altijd terecht bij hen voor vragen, extra uitleg of ondersteuning bij technische problemen.
@@ -143,20 +143,20 @@ Tijdens verschillende opdrachten kreeg ik de kans om mee te kijken met ervaren c
 
 Door deze begeleiding merkte ik dat mijn technische kennis, communicatie en zelfstandigheid gedurende de stage sterk verbeterden.
 
-## Werkpunten rond samenwerking
+### Werkpunten rond samenwerking
 
 Een belangrijk werkpunt is het beter prioriteren van taken en het consequenter opvolgen van gedeelde verantwoordelijkheden, zoals een gezamenlijke mailbox.
 
 Daarnaast wil ik proactiever communiceren wanneer ik ergens vastloop of extra informatie nodig heb. Om dit te verbeteren wil ik tijdens toekomstige stages en projecten bewuster werken met taakplanning, prioriteitenlijsten en regelmatige afstemming met collega's.
 
 # Uitdagingen
-## Wat ging moeilijk tijdens Werkplekleren?
+### Wat ging moeilijk tijdens Werkplekleren?
 
 In het begin vond ik het soms moeilijk om complexe IT-omgevingen snel te begrijpen. Omdat er veel systemen, procedures en tools gebruikt werden, duurde het even voordat ik een volledig overzicht had van de omgeving.
 
 Daarnaast merkte ik dat ik soms te diep op zoek ging naar complexe oorzaken van een probleem, terwijl de oplossing vaak eenvoudiger bleek te zijn. Dit werd ook tijdens feedbackmomenten aangehaald en is een belangrijk leerpunt voor de toekomst.
 
-# Uitdagende taken en situaties
+## Uitdagende taken en situaties
 
 Het oplossen van netwerkproblemen vond ik uitdagend maar tegelijkertijd zeer leerrijk.
 
