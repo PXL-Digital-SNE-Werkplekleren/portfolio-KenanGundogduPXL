@@ -134,4 +134,13 @@ Ook de bedrijfscultuur vond ik zeer positief. Er was ruimte voor initiatief, fee
 
 De samenwerking tussen collega's verliep vlot en professioneel, waardoor ik een goed beeld kreeg van hoe een IT-afdeling binnen een grotere organisatie functioneert.
 
+## Samenwerking
+### Samenwerking met werkplekcoach en collega's
+
+De samenwerking met mijn werkplekcoach en collega's verliep zeer goed. Ik kon altijd terecht bij hen voor vragen, extra uitleg of ondersteuning bij technische problemen.
+
+Tijdens verschillende opdrachten kreeg ik de kans om mee te kijken met ervaren collega's en samen complexe situaties op te lossen. De feedbackmomenten waren bijzonder waardevol omdat ze mij hielpen mijn sterke punten en werkpunten beter te begrijpen.
+
+Door deze begeleiding merkte ik dat mijn technische kennis, communicatie en zelfstandigheid gedurende de stage sterk verbeterden.
+
 ## Reflectie WPL 4
