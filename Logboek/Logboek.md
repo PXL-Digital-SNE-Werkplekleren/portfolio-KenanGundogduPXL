@@ -64,7 +64,7 @@ De feedbackmomenten hebben mij daarbij enorm geholpen, omdat ik daardoor dingen 
 <center>
   <object data="./Onstagelogboek.pdf" type="application/pdf" width="700px" height="700px">
    <embed src="./Onstagelogboek.pdf">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./Onstagelogboek.pdf">Download PDF</a>.</p>
+      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./Onstagelogboek.pdf">WPL3-Logboek_GundogduKenan.pdf</a>.</p>
     </embed>
   </object>
 </center>
