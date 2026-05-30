@@ -99,6 +99,13 @@ PS: Ik ben trots op deze opdracht omdat ik veel bugs of fouten moest oplossen.
 
 ## Opdrachten WPL 3
 
+### Overzicht
+
+- Voorbereiding planningsgesprek
+- Pitch
+- Probleemsituatie en advies
+- Werkkwaliteiten
+
 <center>
   <object data="./Onstagelogboek.pdf" type="application/pdf" width="700px" height="700px">
    <embed src="./Onstagelogboek.pdf">
