@@ -106,36 +106,13 @@ PS: Ik ben trots op deze opdracht omdat ik veel bugs of fouten moest oplossen.
 - Probleemsituatie en advies
 - Werkkwaliteiten
 
-<center>
-  <object data="./Onstagelogboek.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="./Onstagelogboek.pdf">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./Voorbereiding+planningsgesprek_Kenan_Gundogdu.pdf">Voorbereiding planningsgesprek</a>.</p>
-    </embed>
-  </object>
-</center>
+     [Voorbereiding planningsgesprek](./Voorbereiding+planningsgesprek_Kenan_Gundogdu.pdf)
 
-<center>
-  <object data="./Onstagelogboek.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="./Onstagelogboek.pdf">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./WPL3_Intervisie_Pitch_Gundogdu_Kenan.pdf">Pitch</a>.</p>
-    </embed>
-  </object>
-</center>
+     [Pitch](./WPL3_Intervisie_Pitch_Gundogdu_Kenan.pdf)
 
-<center>
-  <object data="./Onstagelogboek.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="./Onstagelogboek.pdf">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./ProbleemsituatieWPL3_2SNA_GundogduKenan_Naverwerking.pdf">Probleemsituatie en advies</a>.</p>
-    </embed>
-  </object>
-</center>
+     [Probleemsituatie en advies](./ProbleemsituatieWPL3_2SNA_GundogduKenan_Naverwerking.pdf)
 
-<center>
-  <object data="./Onstagelogboek.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="./Onstagelogboek.pdf">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./WPL3-SNE_Intervisie_Leerdoelen_Werkkwaliteiten_GundogduKenan_24.pdf">Werkkwaliteiten</a>.</p>
-    </embed>
-  </object>
-</center>
+     [Werkkwaliteiten](./WPL3-SNE_Intervisie_Leerdoelen_Werkkwaliteiten_GundogduKenan_24.pdf)
 
+  
 ## Opdrachten WPL 4
