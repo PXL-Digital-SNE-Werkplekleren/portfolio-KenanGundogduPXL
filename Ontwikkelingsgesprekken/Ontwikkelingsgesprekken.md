@@ -48,7 +48,7 @@ Dit zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
-## Ontwikkelingsgesprekken
+## Groei bij ontwikkelingsgesprekken
 
 In de voorbije periode heb ik duidelijk vooruitgang geboekt, zowel op vlak van kennis als op vlak van soft skills. Door actief te werken aan mijn opdrachten en regelmatig feedback te verwerken, merk ik dat ik sterker ben geworden in mijn manier van werken.
 
