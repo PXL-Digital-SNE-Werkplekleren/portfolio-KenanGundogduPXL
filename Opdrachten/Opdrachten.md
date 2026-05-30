@@ -118,7 +118,7 @@ PS: Ik ben trots op deze opdracht omdat ik veel bugs of fouten moest oplossen.
 <center>
   <object data="./Onstagelogboek.pdf" type="application/pdf" width="700px" height="700px">
    <embed src="./Onstagelogboek.pdf">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./ProbleemsituatieWPL3_2SNA_GundogduKenan_Nawerking.pdf">Probleemsituatie en advies</a>.</p>
+      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./ProbleemsituatieWPL3_2SNA_GundogduKenan_Naverwerking.pdf">Probleemsituatie en advies</a>.</p>
     </embed>
   </object>
 </center>
