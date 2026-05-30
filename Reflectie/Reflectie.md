@@ -107,13 +107,17 @@ Dankzij mijn deelname aan WPL2 zijn mijn sociale vaardigheden beter geworden. Ik
 ## Reflectie WPL 3
 
 ### Eindreflectie WPL3
+
 > Inhoud
+>
 > Positieve punten
+> 
 > Samenwerking
+> 
 > Uitdagingen
+> 
 > Vooruitblik
-> Positieve punten
-> Positieve realisaties
+
 
 Tijdens mijn stage bij Globachem heb ik veel praktische ervaring opgedaan binnen IT-support en systeembeheer. Ik heb zelfstandig laptops en printers voorbereid, geïnstalleerd, geconfigureerd en getest voor eindgebruikers. Daarnaast heb ik gewerkt met professionele tools zoals Intune, ManageEngine, Druva en Ruckus.
 
