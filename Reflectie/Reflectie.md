@@ -103,6 +103,7 @@ Ik heb veel geleerd van de taken die we tijdens deze periode hebben gedaan. Elke
 
 Dankzij mijn deelname aan WPL2 zijn mijn sociale vaardigheden beter geworden. Ik kan nu beter samenwerken in een team en effectiever communiceren. Ook heb ik geleerd hoe ik mijn tijd beter kan indelen en problemen kan oplossen. Ik vind WPL2 een goed idee op onze school omdat het niet alleen helpt bij het leren van technische dingen, maar ook bij het ontwikkelen van belangrijke vaardigheden die nodig zijn voor school en werk.
 
+---
 
 ## Reflectie WPL 3
 
