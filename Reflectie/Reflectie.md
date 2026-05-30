@@ -105,7 +105,7 @@ Dankzij mijn deelname aan WPL2 zijn mijn sociale vaardigheden beter geworden. Ik
 
 ---
 
-## Reflectie WPL 3
+# Reflectie WPL 3
 
 ### Eindreflectie WPL3
 
