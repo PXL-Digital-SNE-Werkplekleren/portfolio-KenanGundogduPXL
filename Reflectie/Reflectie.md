@@ -126,4 +126,12 @@ Ik ben tevreden over de manier waarop ik tickets heb behandeld en technische pro
 
 Verder heb ik actief meegedacht over verbeteringen binnen de IT-omgeving en voorstellen gedaan om processen efficiënter te maken. Hierdoor heb ik niet alleen technische kennis opgedaan, maar ook geleerd hoe IT-processen binnen een professionele organisatie functioneren.
 
+### Positieve punten van de werkplek
+
+Wat mij vooral zal bijblijven is de aangename werksfeer binnen het IT-team. Collega's stonden altijd klaar om vragen te beantwoorden en hun kennis te delen. Hierdoor voelde ik mij snel opgenomen in het team en kreeg ik de kans om veel bij te leren.
+
+Ook de bedrijfscultuur vond ik zeer positief. Er was ruimte voor initiatief, feedback en persoonlijke ontwikkeling. Ik kreeg voldoende vertrouwen om zelfstandig taken uit te voeren, terwijl er steeds begeleiding beschikbaar was wanneer nodig.
+
+De samenwerking tussen collega's verliep vlot en professioneel, waardoor ik een goed beeld kreeg van hoe een IT-afdeling binnen een grotere organisatie functioneert.
+
 ## Reflectie WPL 4
