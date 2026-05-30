@@ -59,7 +59,7 @@ Naast mijn technische kennis ben ik ook gegroeid in mijn soft skills. Ik communi
 <center>
   <object data="./Onstagelogboek.pdf" type="application/pdf" width="700px" height="700px">
    <embed src="./Onstagelogboek.pdf">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./WPL3-FG_GundogduKenan.pdf">WPL3-Logboek_GundogduKenan.pdf</a>.</p>
+      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./WPL3-FG_GundogduKenan.pdf">WPL3-FG_GundogduKenan</a>.</p>
     </embed>
   </object>
 </center>
@@ -67,7 +67,7 @@ Naast mijn technische kennis ben ik ook gegroeid in mijn soft skills. Ik communi
 <center>
   <object data="./Onstagelogboek.pdf" type="application/pdf" width="700px" height="700px">
    <embed src="./Onstagelogboek.pdf">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./WPL3-EG_GundogduKenan.pdf">WPL3-Logboek_GundogduKenan.pdf</a>.</p>
+      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./WPL3-EG_GundogduKenan.pdf">>WPL3-EG_GundogduKenan</a>.</p>
     </embed>
   </object>
 </center>
