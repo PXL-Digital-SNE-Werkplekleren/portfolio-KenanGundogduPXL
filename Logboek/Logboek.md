@@ -51,6 +51,16 @@ Dit was de planning voor het vak werkplekleren 1 in 2022-2023.
 
 ## Logboek WPL 3
 
+## Reflectie na mijn evaluatiegesprek
+
+Na mijn evaluatiegesprek heb ik een beter beeld gekregen van wat ik goed doe en wat nog minder sterk is. Ik heb geprobeerd om mezelf na elk feedbackmoment of gesprek te verbeteren.
+
+Door mijn werkpunten aan te pakken, ben ik ook beter beoordeeld tijdens mijn laatste evaluatiegesprek. Er zijn nog steeds punten waar ik aan moet werken, maar ik denk dat ik goed op weg ben.
+
+Sommige OLR’s gaan natuurlijk beter dan andere, maar mijn plan is om tegen het einde van WPL 4 op alles minstens een goed te behalen. Daarom maak ik hier notities van, zodat ik niet vergeet wat ik nog kan verbeteren en er actief aan kan werken.
+
+De feedbackmomenten hebben mij daarbij enorm geholpen, omdat ik daardoor dingen ben gaan inzien die ik eerst niet van mezelf merkte. Daardoor heb ik geleerd om misschien ook een beetje kritischer naar mezelf te kijken.
+
 <center>
   <object data="./Onstagelogboek.pdf" type="application/pdf" width="700px" height="700px">
    <embed src="./Onstagelogboek.pdf">
