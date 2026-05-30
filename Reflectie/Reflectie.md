@@ -189,4 +189,14 @@ Dit wil ik bereiken door:
 
 Van mijn toekomstige werkplekcoach zou ik graag extra feedback krijgen over mijn probleemoplossende aanpak en prioriteitenbeheer. Daarnaast zou ik graag meer betrokken worden bij infrastructuur- en netwerkprojecten om mijn technische kennis verder uit te breiden.
 
+# Vooruitblik
+
+Tijdens WPL4 wil ik mezelf verder ontwikkelen op zowel technisch als professioneel vlak. Mijn stage bij Globachem heeft mij een sterke basis gegeven binnen IT-support, systeembeheer en netwerken, maar ik zie nog veel mogelijkheden om mijn kennis verder uit te breiden. Vooral onderwerpen zoals netwerkbeheer, cybersecurity, cloudplatformen en automatisering spreken mij sterk aan. Ik wil meer inzicht krijgen in geavanceerde netwerkconfiguraties, security-oplossingen en cloudtechnologieën, omdat deze een steeds belangrijkere rol spelen binnen moderne IT-omgevingen.
+
+Daarnaast wil ik mij verder ontwikkelen in projectmatig werken, documenteren en communiceren binnen grotere IT-teams. Tijdens mijn stage heb ik gemerkt hoe belangrijk duidelijke communicatie en een goede samenwerking zijn voor het succesvol uitvoeren van IT-projecten en supporttaken. Door hier verder aan te werken wil ik niet alleen technisch sterker worden, maar ook professioneler functioneren binnen een organisatie.
+
+Mijn belangrijkste talenten zijn leergierigheid, analytisch denken, probleemoplossend vermogen en een sterke interesse in automatisering. Tijdens mijn stage heb ik deze eigenschappen kunnen inzetten bij het oplossen van tickets, het ontwikkelen van scripts en het voorstellen van verbeteringen binnen de IT-omgeving. In WPL4 wil ik deze talenten nog beter benutten door meer verantwoordelijkheid op te nemen en actiever betrokken te worden bij technische projecten.
+
+Verder zou ik graag meer ervaring opdoen met netwerkbeheer, serverbeheer, cybersecurity, cloudomgevingen en automatisering. Deze domeinen sluiten nauw aan bij mijn interesses en toekomstige carrièredoelen. Door hierin verder te groeien wil ik mij ontwikkelen tot een allround IT-professional met een sterke technische basis, een goed probleemoplossend vermogen en een breed inzicht in moderne IT-infrastructuren.
+
 ## Reflectie WPL 4
