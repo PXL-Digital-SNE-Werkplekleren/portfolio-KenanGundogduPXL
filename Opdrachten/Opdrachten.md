@@ -106,13 +106,19 @@ PS: Ik ben trots op deze opdracht omdat ik veel bugs of fouten moest oplossen.
 - Probleemsituatie en advies
 - Werkkwaliteiten
 
+> Bij deze opdracht werd het planningsgesprek voorbereid.
+
 [ Voorbereiding planningsgesprek](https://github.com/user-attachments/files/28439383/Voorbereiding%2Bplanningsgesprek_Kenan_Gundogdu.pdf)
 
 > Deze opdracht draaide rond het kort en overtuigend voorstellen van mijn werkplek Globachem.
 
 [Pitch](https://github.com/user-attachments/files/28439390/WPL3_Intervisie_Pitch_Gundogdu_Kenan.pdf)
 
+> De nadruk bij deze opdracht lag op kritisch nadenken en oplossingsgericht werken.
+
 [Probleemsituatie en advies](https://github.com/user-attachments/files/28439398/ProbleemsituatieWPL3_2SNA_GundogduKenan_Naverwerking.pdf)
+
+> Hier werd stilgestaan bij persoonlijke werkkwaliteiten en professionele vaardigheden. Deze opdracht gaf meer inzicht in sterke punten en aandachtspunten.
 
 [Werkkwaliteiten](https://github.com/user-attachments/files/28439410/WPL3-SNE_Intervisie_Leerdoelen_Werkkwaliteiten_GundogduKenan_24.pdf)
 
