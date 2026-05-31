@@ -119,7 +119,7 @@ Dankzij mijn deelname aan WPL2 zijn mijn sociale vaardigheden beter geworden. Ik
 > 
 > Vooruitblik
 
-### Positieve punten
+# Positieve punten
 
 Tijdens mijn stage bij Globachem heb ik veel praktische ervaring opgedaan binnen IT-support en systeembeheer. Ik heb zelfstandig laptops en printers voorbereid, geïnstalleerd, geconfigureerd en getest voor eindgebruikers. Daarnaast heb ik gewerkt met professionele tools zoals Intune, ManageEngine, Druva en Ruckus.
 
@@ -134,6 +134,8 @@ Wat mij vooral zal bijblijven is de aangename werksfeer binnen het IT-team. Coll
 Ook de bedrijfscultuur vond ik zeer positief. Er was ruimte voor initiatief, feedback en persoonlijke ontwikkeling. Ik kreeg voldoende vertrouwen om zelfstandig taken uit te voeren, terwijl er steeds begeleiding beschikbaar was wanneer nodig.
 
 De samenwerking tussen collega's verliep vlot en professioneel, waardoor ik een goed beeld kreeg van hoe een IT-afdeling binnen een grotere organisatie functioneert.
+
+---
 
 # Samenwerking
 ### Samenwerking met werkplekcoach en collega's
@@ -150,12 +152,16 @@ Een belangrijk werkpunt is het beter prioriteren van taken en het consequenter o
 
 Daarnaast wil ik proactiever communiceren wanneer ik ergens vastloop of extra informatie nodig heb. Om dit te verbeteren wil ik tijdens toekomstige stages en projecten bewuster werken met taakplanning, prioriteitenlijsten en regelmatige afstemming met collega's.
 
+---
+
 # Uitdagingen
 ### Wat ging moeilijk tijdens Werkplekleren?
 
 In het begin vond ik het soms moeilijk om complexe IT-omgevingen snel te begrijpen. Omdat er veel systemen, procedures en tools gebruikt werden, duurde het even voordat ik een volledig overzicht had van de omgeving.
 
 Daarnaast merkte ik dat ik soms te diep op zoek ging naar complexe oorzaken van een probleem, terwijl de oplossing vaak eenvoudiger bleek te zijn. Dit werd ook tijdens feedbackmomenten aangehaald en is een belangrijk leerpunt voor de toekomst.
+
+---
 
 ## Uitdagende taken en situaties
 
@@ -169,6 +175,8 @@ Voorbeelden hiervan waren:
 - Troubleshooting met behulp van Ruckus en netwerkdocumentatie.
 
 Daarnaast vereisten patchmanagement, Active Directory en automatiseringsopdrachten een grondige analyse en veel zelfstandig opzoekwerk.
+
+---
 
 ## Verbeterpunten voor WPL4
 
@@ -189,6 +197,8 @@ Dit wil ik bereiken door:
 - Actiever feedback te vragen.
 
 Van mijn toekomstige werkplekcoach zou ik graag extra feedback krijgen over mijn probleemoplossende aanpak en prioriteitenbeheer. Daarnaast zou ik graag meer betrokken worden bij infrastructuur- en netwerkprojecten om mijn technische kennis verder uit te breiden.
+
+---
 
 # Vooruitblik
 
