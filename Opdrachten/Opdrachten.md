@@ -106,9 +106,9 @@ PS: Ik ben trots op deze opdracht omdat ik veel bugs of fouten moest oplossen.
 - Probleemsituatie en advies
 - Werkkwaliteiten
 
-  [Voorbereiding+planningsgesprek_Kenan_Gundogdu.pdf](https://github.com/user-attachments/files/28439383/Voorbereiding%2Bplanningsgesprek_Kenan_Gundogdu.pdf)
+[Voorbereiding+planningsgesprek_Kenan_Gundogdu.pdf](https://github.com/user-attachments/files/28439383/Voorbereiding%2Bplanningsgesprek_Kenan_Gundogdu.pdf)
 
-  [WPL3_Intervisie_Pitch_Gundogdu_Kenan.pdf](https://github.com/user-attachments/files/28439390/WPL3_Intervisie_Pitch_Gundogdu_Kenan.pdf)
+[WPL3_Intervisie_Pitch_Gundogdu_Kenan.pdf](https://github.com/user-attachments/files/28439390/WPL3_Intervisie_Pitch_Gundogdu_Kenan.pdf)
 
 [ProbleemsituatieWPL3_2SNA_GundogduKenan_Naverwerking.pdf](https://github.com/user-attachments/files/28439398/ProbleemsituatieWPL3_2SNA_GundogduKenan_Naverwerking.pdf)
 
