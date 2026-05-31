@@ -58,10 +58,11 @@ Naast mijn technische kennis ben ik ook gegroeid in mijn soft skills. Ik communi
 
 ### Functioneringsgesprek
 
-   [WPL3-FG_GundogduKenan](WPL3-FG_GundogduKenan.pdf)
+   [WPL3-FG_GundogduKenan.pdf](https://github.com/user-attachments/files/28439371/WPL3-FG_GundogduKenan.pdf)
+
 
 ### Evaluatiegesprek
 
-   [WPL3-EG_GundogduKenan](./WPL3-EG_GundogduKenan.pdf)
-  
+   [WPL3-EG_GundogduKenan.pdf](https://github.com/user-attachments/files/28439374/WPL3-EG_GundogduKenan.pdf)
+ 
 ## Overzicht ontwikkelingsgesprekken WPL 4
