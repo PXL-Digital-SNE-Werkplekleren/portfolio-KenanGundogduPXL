@@ -108,6 +108,8 @@ PS: Ik ben trots op deze opdracht omdat ik veel bugs of fouten moest oplossen.
 
 [ Voorbereiding planningsgesprek](https://github.com/user-attachments/files/28439383/Voorbereiding%2Bplanningsgesprek_Kenan_Gundogdu.pdf)
 
+Deze opdracht draaide rond het kort en overtuigend voorstellen van mijn werkplek Globachem.
+
 [Pitch](https://github.com/user-attachments/files/28439390/WPL3_Intervisie_Pitch_Gundogdu_Kenan.pdf)
 
 [Probleemsituatie en advies](https://github.com/user-attachments/files/28439398/ProbleemsituatieWPL3_2SNA_GundogduKenan_Naverwerking.pdf)
